@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.demo ul{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.demo ul li{
+    list-style: none;
+    line-height: 60px;
+    height: 60px;
+    width: 30%;
+    background: green;
+}
