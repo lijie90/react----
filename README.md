@@ -5,4 +5,4 @@
 - 父->子组件通信直接props
 - 子->父组件通信 通过父组件在props中增加回调函数来实现通信
 - npm install装上依赖即可
-- 运行npm start运行
+- 运行npm start启动项目
